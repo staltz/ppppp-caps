@@ -1,0 +1,12 @@
+{
+  "name": "ppppp-caps",
+  "version": "0.0.1",
+  "description": "The Caps string for the PPPPP protocol using secret handshake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staltz/ppppp-caps.git"
+  },
+  "main": "caps.json",
+  "author": "public-domain",
+  "license": "CC0-1.0"
+}
